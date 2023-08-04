@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 镜头下的涂鸦</title>
+    <link>http://xxx.xxx/posts/</link>
+    <description>Recent content in Posts on 镜头下的涂鸦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 10:45:49 +0800</lastBuildDate><atom:link href="http://xxx.xxx/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我是一只小精灵</title>
+      <link>http://xxx.xxx/posts/test1/</link>
+      <pubDate>Fri, 04 Aug 2023 10:45:49 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/posts/test1/</guid>
+      <description>+++
+我是一只小精灵</description>
+    </item>
+    
+    <item>
+      <title>演员的自我修养</title>
+      <link>http://xxx.xxx/posts/test/</link>
+      <pubDate>Fri, 04 Aug 2023 10:45:48 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/posts/test/</guid>
+      <description>+++
+Hello Hugo！测试内容</description>
+    </item>
+    
+    <item>
+      <title>快速开始</title>
+      <link>http://xxx.xxx/posts/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/</link>
+      <pubDate>Thu, 21 Apr 2022 16:46:16 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/posts/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
